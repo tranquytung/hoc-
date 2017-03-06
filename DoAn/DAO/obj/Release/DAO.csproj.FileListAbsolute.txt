@@ -1,0 +1,7 @@
+E:\DoAn\DAO\bin\Release\DAO.dll
+E:\DoAn\DAO\bin\Release\DAO.pdb
+E:\DoAn\DAO\bin\Release\DTO.dll
+E:\DoAn\DAO\bin\Release\DTO.pdb
+E:\DoAn\DAO\obj\Release\DAO.csprojResolveAssemblyReference.cache
+E:\DoAn\DAO\obj\Release\DAO.dll
+E:\DoAn\DAO\obj\Release\DAO.pdb

@@ -1,0 +1,111 @@
+E:\DoAn\GUI\bin\Debug\GUI.exe.config
+E:\DoAn\GUI\bin\Debug\GUI.exe
+E:\DoAn\GUI\bin\Debug\GUI.pdb
+E:\DoAn\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\DoAn\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\DoAn\GUI\obj\Debug\GUI.exe
+E:\DoAn\GUI\obj\Debug\GUI.pdb
+E:\DoAn\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\DoAn\GUI\obj\Debug\GUI.frmMenuChinh.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmDangNhap.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmDayPhong.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmPhong.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmNhanVien.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmSinhVien.resources
+E:\DoAn\GUI\bin\Debug\BLL.dll
+E:\DoAn\GUI\bin\Debug\DTO.dll
+E:\DoAn\GUI\bin\Debug\DAO.dll
+E:\DoAn\GUI\bin\Debug\BLL.pdb
+E:\DoAn\GUI\bin\Debug\DTO.pdb
+E:\DoAn\GUI\bin\Debug\DAO.pdb
+E:\DoAn\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmDichVu.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmHopDong.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmThuePhong.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmTraPhong.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmHoaDonTienDienNuoc.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmHoaDonTienPhong.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmSoGhiDienNuoc.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmBaoCaoThongKe.resources
+E:\DoAn\GUI\obj\Debug\GUI.frmTimKiem.resources
+E:\DoAn\GUI\obj\Debug\GUI.rpHopDong.resources
+E:\DoAn\GUI\obj\Debug\RdlCompile.cache
+E:\DoAn\GUI\obj\Debug\RdlCompile.compiled
+E:\DoAn\GUI\obj\Debug\GUI.rpHoaDonTienPhong.resources
+E:\DoAn\GUI\obj\Debug\GUI.rpHoaDonTienDienNuoc.resources
+E:\Do An A Bien\DoAn\GUI\bin\Debug\GUI.exe.config
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.exe
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.pdb
+E:\Do An A Bien\DoAn\GUI\bin\Debug\GUI.exe
+E:\Do An A Bien\DoAn\GUI\bin\Debug\GUI.pdb
+E:\Do An A Bien\DoAn\GUI\bin\Debug\BLL.dll
+E:\Do An A Bien\DoAn\GUI\bin\Debug\DTO.dll
+E:\Do An A Bien\DoAn\GUI\bin\Debug\DAO.dll
+E:\Do An A Bien\DoAn\GUI\bin\Debug\BLL.pdb
+E:\Do An A Bien\DoAn\GUI\bin\Debug\DTO.pdb
+E:\Do An A Bien\DoAn\GUI\bin\Debug\DAO.pdb
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmBaoCaoThongKe.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmDangNhap.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmDayPhong.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmDichVu.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmHoaDonTienDienNuoc.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmHoaDonTienPhong.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmHopDong.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmMenuChinh.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmNhanVien.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmPhong.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmSinhVien.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmSoGhiDienNuoc.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmThuePhong.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmTimKiem.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.frmTraPhong.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.rpHoaDonTienDienNuoc.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.rpHoaDonTienPhong.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.rpHopDong.resources
+E:\Do An A Bien\DoAn\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Do An A Bien\DoAn\GUI\obj\Debug\RdlCompile.cache
+E:\Do An A Bien\DoAn\GUI\obj\Debug\RdlCompile.compiled
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\GUI.exe.config
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.exe
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.pdb
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmBaoCaoThongKe.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmDangNhap.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmDayPhong.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmDichVu.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmHoaDonTienDienNuoc.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmHoaDonTienPhong.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmHopDong.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmMenuChinh.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmNhanVien.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmPhong.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmSinhVien.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmSoGhiDienNuoc.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmThuePhong.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmTimKiem.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.frmTraPhong.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.rpHoaDonTienDienNuoc.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.rpHoaDonTienPhong.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.rpHopDong.resources
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\GUI.exe
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\GUI.pdb
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\BLL.dll
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\DevComponents.DotNetBar2.dll
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\DTO.dll
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\microsoft.reportviewer.common.dll
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\microsoft.reportviewer.winforms.dll
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\DAO.dll
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\BLL.pdb
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\DTO.pdb
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\DevComponents.DotNetBar2.xml
+F:\le-xuan-kien\DoAn\GUI\bin\Debug\DAO.pdb
+F:\le-xuan-kien\DoAn\GUI\obj\Debug\GUI.Formyy.resources

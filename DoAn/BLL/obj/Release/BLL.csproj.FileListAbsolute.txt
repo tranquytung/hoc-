@@ -1,0 +1,9 @@
+E:\DoAn\BLL\bin\Release\BLL.dll
+E:\DoAn\BLL\bin\Release\BLL.pdb
+E:\DoAn\BLL\bin\Release\DAO.dll
+E:\DoAn\BLL\bin\Release\DTO.dll
+E:\DoAn\BLL\bin\Release\DAO.pdb
+E:\DoAn\BLL\bin\Release\DTO.pdb
+E:\DoAn\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\DoAn\BLL\obj\Release\BLL.dll
+E:\DoAn\BLL\obj\Release\BLL.pdb

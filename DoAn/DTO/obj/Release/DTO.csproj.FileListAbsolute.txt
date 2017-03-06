@@ -1,0 +1,5 @@
+E:\DoAn\DTO\bin\Release\DTO.dll
+E:\DoAn\DTO\bin\Release\DTO.pdb
+E:\DoAn\DTO\obj\Release\DTO.dll
+E:\DoAn\DTO\obj\Release\DTO.pdb
+E:\DoAn\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache

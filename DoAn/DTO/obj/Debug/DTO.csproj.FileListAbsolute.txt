@@ -1,0 +1,15 @@
+E:\DoAn\DTO\bin\Debug\DTO.dll
+E:\DoAn\DTO\bin\Debug\DTO.pdb
+E:\DoAn\DTO\obj\Debug\DTO.dll
+E:\DoAn\DTO\obj\Debug\DTO.pdb
+E:\DoAn\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Do An A Bien\DoAn\DTO\bin\Debug\DTO.dll
+E:\Do An A Bien\DoAn\DTO\bin\Debug\DTO.pdb
+E:\Do An A Bien\DoAn\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Do An A Bien\DoAn\DTO\obj\Debug\DTO.dll
+E:\Do An A Bien\DoAn\DTO\obj\Debug\DTO.pdb
+F:\le-xuan-kien\DoAn\DTO\bin\Debug\DTO.dll
+F:\le-xuan-kien\DoAn\DTO\bin\Debug\DTO.pdb
+F:\le-xuan-kien\DoAn\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\le-xuan-kien\DoAn\DTO\obj\Debug\DTO.dll
+F:\le-xuan-kien\DoAn\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,23 @@
+E:\DoAn\DAO\bin\Debug\DAO.dll
+E:\DoAn\DAO\bin\Debug\DAO.pdb
+E:\DoAn\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\DoAn\DAO\obj\Debug\DAO.dll
+E:\DoAn\DAO\obj\Debug\DAO.pdb
+E:\DoAn\DAO\bin\Debug\DTO.dll
+E:\DoAn\DAO\bin\Debug\DTO.pdb
+E:\Do An A Bien\DoAn\DAO\bin\Debug\DAO.dll
+E:\Do An A Bien\DoAn\DAO\bin\Debug\DAO.pdb
+E:\Do An A Bien\DoAn\DAO\bin\Debug\DTO.dll
+E:\Do An A Bien\DoAn\DAO\bin\Debug\DTO.pdb
+E:\Do An A Bien\DoAn\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Do An A Bien\DoAn\DAO\obj\Debug\DAO.dll
+E:\Do An A Bien\DoAn\DAO\obj\Debug\DAO.pdb
+E:\Do An A Bien\DoAn\DAO\bin\Debug\DAO.dll.config
+F:\le-xuan-kien\DoAn\DAO\bin\Debug\DAO.dll.config
+F:\le-xuan-kien\DoAn\DAO\bin\Debug\DAO.dll
+F:\le-xuan-kien\DoAn\DAO\bin\Debug\DAO.pdb
+F:\le-xuan-kien\DoAn\DAO\bin\Debug\DTO.dll
+F:\le-xuan-kien\DoAn\DAO\bin\Debug\DTO.pdb
+F:\le-xuan-kien\DoAn\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\le-xuan-kien\DoAn\DAO\obj\Debug\DAO.dll
+F:\le-xuan-kien\DoAn\DAO\obj\Debug\DAO.pdb

@@ -1,0 +1,27 @@
+E:\DoAn\BLL\bin\Debug\BLL.dll
+E:\DoAn\BLL\bin\Debug\BLL.pdb
+E:\DoAn\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\DoAn\BLL\obj\Debug\BLL.dll
+E:\DoAn\BLL\obj\Debug\BLL.pdb
+E:\DoAn\BLL\bin\Debug\DAO.dll
+E:\DoAn\BLL\bin\Debug\DTO.dll
+E:\DoAn\BLL\bin\Debug\DAO.pdb
+E:\DoAn\BLL\bin\Debug\DTO.pdb
+E:\Do An A Bien\DoAn\BLL\bin\Debug\BLL.dll
+E:\Do An A Bien\DoAn\BLL\bin\Debug\BLL.pdb
+E:\Do An A Bien\DoAn\BLL\bin\Debug\DAO.dll
+E:\Do An A Bien\DoAn\BLL\bin\Debug\DTO.dll
+E:\Do An A Bien\DoAn\BLL\bin\Debug\DAO.pdb
+E:\Do An A Bien\DoAn\BLL\bin\Debug\DTO.pdb
+E:\Do An A Bien\DoAn\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Do An A Bien\DoAn\BLL\obj\Debug\BLL.dll
+E:\Do An A Bien\DoAn\BLL\obj\Debug\BLL.pdb
+F:\le-xuan-kien\DoAn\BLL\bin\Debug\BLL.dll
+F:\le-xuan-kien\DoAn\BLL\bin\Debug\BLL.pdb
+F:\le-xuan-kien\DoAn\BLL\bin\Debug\DAO.dll
+F:\le-xuan-kien\DoAn\BLL\bin\Debug\DTO.dll
+F:\le-xuan-kien\DoAn\BLL\bin\Debug\DAO.pdb
+F:\le-xuan-kien\DoAn\BLL\bin\Debug\DTO.pdb
+F:\le-xuan-kien\DoAn\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\le-xuan-kien\DoAn\BLL\obj\Debug\BLL.dll
+F:\le-xuan-kien\DoAn\BLL\obj\Debug\BLL.pdb
